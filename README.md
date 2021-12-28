@@ -7,8 +7,7 @@
 
 ## Criar o componente de upload
 
-    ng generate upload
-
+    ng generate component upload
 
 ## Iniciar o projeto
 
